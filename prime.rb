@@ -8,4 +8,4 @@ def prime?(x)
     end
 end
 
-x = 6
+prime?(6)
