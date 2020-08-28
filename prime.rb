@@ -7,3 +7,5 @@ def prime?(x)
             return true
     end
 end
+
+x = 6
