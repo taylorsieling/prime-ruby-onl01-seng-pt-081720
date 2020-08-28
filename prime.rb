@@ -8,4 +8,4 @@ def prime?(x)
     end
 end
 
-prime?(6)
+prime?(15)
